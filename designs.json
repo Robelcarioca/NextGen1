@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d1",
+    "title": "Premium Brand Logo",
+    "category": "logo",
+    "description": "Professional logo with brand guidelines, color palette, and multiple formats (AI, SVG, PNG, PDF).",
+    "price": 49,
+    "badge": "Best Seller",
+    "likes": 42,
+    "emoji": "\ud83c\udfc6",
+    "bg": "linear-gradient(145deg,#1a1208,#3d2a08)",
+    "image": ""
+  },
+  {
+    "id": "d2",
+    "title": "Instagram Pack (10 Posts)",
+    "category": "social",
+    "description": "10 custom-designed posts tailored to your brand identity. Editable PSD + PNG files.",
+    "price": 35,
+    "badge": "",
+    "likes": 38,
+    "emoji": "\ud83d\udcf1",
+    "bg": "linear-gradient(145deg,#0a1820,#1a3040)",
+    "image": ""
+  },
+  {
+    "id": "d3",
+    "title": "Full Brand Identity Kit",
+    "category": "branding",
+    "description": "Logo, colors, fonts, business card, letterhead, and social media templates \u2014 all in one package.",
+    "price": 149,
+    "badge": "Popular",
+    "likes": 71,
+    "emoji": "\ud83c\udfa8",
+    "bg": "linear-gradient(145deg,#1a0f0a,#3a2010)",
+    "image": ""
+  },
+  {
+    "id": "d4",
+    "title": "Business Card Design",
+    "category": "print",
+    "description": "Double-sided premium business card. Print-ready files in all formats included.",
+    "price": 19,
+    "badge": "",
+    "likes": 29,
+    "emoji": "\ud83d\udda8\ufe0f",
+    "bg": "linear-gradient(145deg,#0f1a10,#1a2d1a)",
+    "image": ""
+  },
+  {
+    "id": "d5",
+    "title": "Flyer & Poster Design",
+    "category": "print",
+    "description": "Eye-catching promotional material for events, products, or marketing campaigns.",
+    "price": 25,
+    "badge": "",
+    "likes": 33,
+    "emoji": "\ud83d\udcc4",
+    "bg": "linear-gradient(145deg,#1a0a10,#2d1020)",
+    "image": ""
+  },
+  {
+    "id": "d6",
+    "title": "Minimalist Logo",
+    "category": "logo",
+    "description": "Clean, modern minimal logo perfect for startups and tech companies.",
+    "price": 39,
+    "badge": "",
+    "likes": 55,
+    "emoji": "\u26a1",
+    "bg": "linear-gradient(145deg,#0a0f1a,#101830)",
+    "image": ""
+  },
+  {
+    "id": "d7",
+    "title": "YouTube Thumbnail Pack",
+    "category": "social",
+    "description": "5 high-CTR thumbnails engineered to maximize clicks and views.",
+    "price": 30,
+    "badge": "",
+    "likes": 47,
+    "emoji": "\ud83c\udfac",
+    "bg": "linear-gradient(145deg,#1a0510,#2d0820)",
+    "image": ""
+  },
+  {
+    "id": "d8",
+    "title": "Product Packaging",
+    "category": "branding",
+    "description": "Premium packaging that stands out on shelves and builds brand recognition.",
+    "price": 79,
+    "badge": "New",
+    "likes": 19,
+    "emoji": "\ud83d\udce6",
+    "bg": "linear-gradient(145deg,#1a1208,#2d2008)",
+    "image": ""
+  },
+  {
+    "id": "d9",
+    "title": "Story & Reels Templates",
+    "category": "social",
+    "description": "15 animated-ready templates optimized for Instagram and TikTok.",
+    "price": 45,
+    "badge": "",
+    "likes": 62,
+    "emoji": "\u2728",
+    "bg": "linear-gradient(145deg,#0a1520,#102030)",
+    "image": ""
+  }
+]

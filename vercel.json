@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin/index.html" },
+    { "source": "/designs.json", "destination": "/designs.json" },
+    { "source": "/site-config.json", "destination": "/site-config.json" }
+  ],
+  "headers": [
+    { "source": "/admin/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }
+  ]
+}

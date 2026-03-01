@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "kicker": "Available for new projects",
+    "title1": "NEXT-GEN",
+    "title2": "CREATIVE",
+    "subtitle": "STUDIO",
+    "description": "Designs that define brands. We craft visual identities, digital experiences, and marketing assets that make your business impossible to ignore.",
+    "badge": "48h Fast Delivery",
+    "stats": [
+      {"val": "150+", "lbl": "Projects"},
+      {"val": "98%", "lbl": "Satisfaction"},
+      {"val": "5★", "lbl": "Rating"}
+    ],
+    "cards": [
+      {"emoji": "🎨", "label": "Brand Identity", "sub": "Logo · Colors · Type", "bg": "linear-gradient(145deg,#1a1208,#3d2a08)"},
+      {"emoji": "📱", "label": "Social Media", "sub": "Posts · Stories · Reels", "bg": "linear-gradient(145deg,#0a1820,#1a3040)"},
+      {"emoji": "🖥️", "label": "Web Design", "sub": "UI · UX · Prototypes", "bg": "linear-gradient(145deg,#1a0e10,#2e1218)"}
+    ]
+  },
+  "services": [
+    {"emoji": "🏆", "image": "", "name": "Brand Identity", "desc": "Complete branding — logo, colors, typography & more.", "bg": "linear-gradient(145deg,#1a1208,#3d2a08)", "orderTitle": "Full Brand Identity Kit", "orderPrice": "$149"},
+    {"emoji": "📱", "image": "", "name": "Social Media",  "desc": "Scroll-stopping posts, stories & reels that grow your audience.", "bg": "linear-gradient(145deg,#0a1820,#0f2d3d)", "orderTitle": "Instagram Pack (10 Posts)", "orderPrice": "$35"},
+    {"emoji": "🎯", "image": "", "name": "Print Design",  "desc": "Business cards, flyers & packaging that leave lasting impressions.", "bg": "linear-gradient(145deg,#1a0e10,#2e1218)", "orderTitle": "Flyer & Poster Design", "orderPrice": "$25"}
+  ],
+  "testimonials": [
+    {"name": "Sarah Mitchell", "role": "CEO, StyleHive Boutique", "text": "Next-Gen Creative completely transformed my brand. The logo was exactly what I envisioned but couldn't describe. Delivered in 24 hours — phenomenal quality.", "stars": 5, "initials": "S"},
+    {"name": "Ahmed Karimi",   "role": "Founder, TechLaunch",      "text": "We needed a full brand kit in 48 hours for a product launch. They delivered on time and the quality blew us away. Conversion rate jumped 40% after the rebrand!", "stars": 5, "initials": "A"},
+    {"name": "Layla Rodriguez","role": "Marketing Director",        "text": "The social media pack they created got engagement we'd never seen before. Clients constantly ask who designs our visuals. The answer is always Next-Gen Creative.", "stars": 5, "initials": "L"}
+  ],
+  "about": {
+    "emoji": "👨‍🎨",
+    "image": "",
+    "kicker": "Our Story",
+    "title": "We Make Your Brand Unforgettable",
+    "p1": "Next-Gen Creative is a premium design studio specializing in brand identity, digital graphics, and visual storytelling. We believe that great design isn't just art — it's a powerful business tool.",
+    "p2": "Every pixel is intentional. Every color carries meaning. We craft designs that don't just look good but convert viewers into loyal customers.",
+    "stats": [
+      {"val": "5+",   "lbl": "Years"},
+      {"val": "150+", "lbl": "Clients"},
+      {"val": "500+", "lbl": "Designs"}
+    ],
+    "features": [
+      {"icon": "⚡", "title": "Fast Turnaround",       "desc": "Most projects delivered within 24–72 hours without sacrificing quality."},
+      {"icon": "♾️", "title": "Unlimited Revisions",   "desc": "We iterate until you're 100% satisfied. Your vision is our priority."},
+      {"icon": "📁", "title": "All File Formats",      "desc": "AI, PSD, EPS, SVG, PNG, PDF — ready for any use case."}
+    ]
+  },
+  "pricing": [
+    {
+      "plan": "Starter", "tag": "Perfect for individuals",
+      "price": "19", "priceLabel": "+", "cycle": "Starting price",
+      "featured": false, "featuredLabel": "",
+      "features": ["1 Design Concept","3 Revisions","48h Delivery","PNG & PDF Files","Basic Social Graphics"],
+      "btnText": "Choose Starter", "orderTitle": "Starter Package"
+    },
+    {
+      "plan": "Professional", "tag": "For growing businesses",
+      "price": "79", "priceLabel": "+", "cycle": "Starting price",
+      "featured": true, "featuredLabel": "Most Popular",
+      "features": ["3 Design Concepts","Unlimited Revisions","24h Delivery","All File Formats","Logo + Brand Kit","Priority Support"],
+      "btnText": "Choose Pro", "orderTitle": "Professional Package"
+    },
+    {
+      "plan": "Enterprise", "tag": "For established brands",
+      "price": "149", "priceLabel": "+", "cycle": "Starting price",
+      "featured": false, "featuredLabel": "",
+      "features": ["5+ Design Concepts","Unlimited Revisions","12h Rush Delivery","Full Source Files","Complete Brand System","1 Month Support","Social Templates"],
+      "btnText": "Choose Enterprise", "orderTitle": "Enterprise Package"
+    }
+  ],
+  "contact": {
+    "whatsapp": "962465928",
+    "telegram": "Next_Gen_nah",
+    "email": "nahifele96@gmail.com",
+    "phone": ""
+  },
+  "footer": {
+    "description": "Designs that define brands. We turn your vision into visual impact that drives results."
+  }
+}

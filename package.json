@@ -1,0 +1,8 @@
+{
+  "name": "next-gen-creative",
+  "version": "1.0.0",
+  "description": "Next-Gen Creative Portfolio Website",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
